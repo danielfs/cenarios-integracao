@@ -1,3 +1,3 @@
-# repositório cenarios-integracao
+# Repositório cenarios-integracao
 
-Soluções propostas para o exercício de Arquiteturas de Integração de Aplicações
+Soluções propostas para o exercício de integração de aplicações.
