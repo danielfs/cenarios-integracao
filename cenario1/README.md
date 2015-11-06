@@ -1,0 +1,1 @@
+Uma universidade possui um pacote de classes em C++ que devem ser integradas em um sistema maior com diversos outros componentes escritos em java que funcionarão como o cliente solicitando serviços dos objetos C++. Por questões de desempenho não está sendo cogitada a reescrita do pacote de classes C++ em java.
